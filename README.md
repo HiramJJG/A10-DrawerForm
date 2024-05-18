@@ -1,19 +1,15 @@
 # A_10_Drawer_forms
 
-A new Flutter project created with FlutLab - https://flutlab.io
+https://codesinsider.com/flutter-textfield-widget-tutorial/
 
-## Getting Started
+https://blog.logrocket.com/the-ultimate-guide-to-text-fields-in-flutter/
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/5cd2aee2-070d-4ef2-bf5a-b2d3c3903273)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/d7ac0fbb-f45e-4ecb-a5d0-a9730da8a0bd)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/6535b94c-0aa2-431f-9620-a2d24a51f33c)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/582c2d6f-de11-4fdb-97c9-dfbe27ccd968)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/f5ecce54-eeb7-4f29-b7b6-36f571b12971)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/7c21743e-555f-4ca0-adf2-f053c6ab0d50)
+![image](https://github.com/HiramJJG/A10-Drawerform/assets/144726165/c438f50d-c331-4f73-8faa-a2d8dfd4c563)
